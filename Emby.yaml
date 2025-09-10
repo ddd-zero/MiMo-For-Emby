@@ -16,7 +16,7 @@
 #A、B、C、D、E、F、G、H、I、J、K、L、M、N、O、P、Q、R、S、T、U、V、W、X、Y、Z
 payload:
 #bangumi
-- DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,bangumi.ca
 #micu
   - DOMAIN-KEYWORD,micu
 #RFC UHDNOW MeFun 米饭服
