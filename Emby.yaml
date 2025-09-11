@@ -15,10 +15,20 @@
 #仅按照ABC首字母排序
 #A、B、C、D、E、F、G、H、I、J、K、L、M、N、O、P、Q、R、S、T、U、V、W、X、Y、Z
 payload:
-#bangumi
+###BBBBBB
+  #bangumi nyamedia_chat
   - DOMAIN-SUFFIX,bangumi.ca
-#micu
+###KKKKKK
+  #KFCV50Emby
+  - DOMAIN,cloudflare.v50.su
+###MMMMMM
+  #micu
   - DOMAIN-KEYWORD,micu
-#RFC UHDNOW MeFun 米饭服
+###PPPPPP
+  #peach_公益服
+  - DOMAIN-SUFFIX,embymv.link
+###RRRRRR
+  #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
-#
+
+  
