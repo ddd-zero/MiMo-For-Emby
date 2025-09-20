@@ -10,25 +10,28 @@
 #RULE-SET：Rule Provider 规则匹配
 #MATCH：全匹配
 
-#写的时候直接匹配Emby服务器，某些有官网账号面板的域名尽量不要匹配他们的官网面板
+
 #分站统一归类到母站管理
 #仅按照ABC首字母排序
 #A、B、C、D、E、F、G、H、I、J、K、L、M、N、O、P、Q、R、S、T、U、V、W、X、Y、Z
 payload:
-###BBBBBB
+###BBBBBB###
   #bangumi nyamedia_chat
   - DOMAIN-SUFFIX,bangumi.ca
-###KKKKKK
+###KKKKKK###
   #KFCV50Emby
   - DOMAIN,cloudflare.v50.su
-###MMMMMM
+###MMMMMM###
   #micu
   - DOMAIN-KEYWORD,micu
-###PPPPPP
+###PPPPPP###
   #peach_公益服
   - DOMAIN-SUFFIX,embymv.link
-###RRRRRR
+###RRRRRR###
   #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
+###YYYYYY###
+  #YXIO 忆夏
+  - DOMAIN-SUFFIX,yixia.io
 
   
