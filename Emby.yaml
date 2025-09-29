@@ -18,6 +18,9 @@ payload:
 ###BBBBBB###
   #bangumi nyamedia_chat
   - DOMAIN-SUFFIX,bangumi.ca
+###DDDDDD###
+  #emos
+  - DOMAIN-SUFFIX,emos.lol
 ###KKKKKK###
   #KFCV50Emby
   - DOMAIN,cloudflare.v50.su
@@ -31,7 +34,7 @@ payload:
   #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
 ###YYYYYY###
-  #YXIO 忆夏
+  #YXIO 忆夏(已跑路，待删)
   - DOMAIN-SUFFIX,yixia.io
 
   
