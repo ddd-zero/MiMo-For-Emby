@@ -21,9 +21,15 @@ payload:
 ###DDDDDD###
   #emos
   - DOMAIN-SUFFIX,emos.lol
+###IIIIII###
+  #ichinosekotomifan的电视台
+  - DOMAIN-SUFFIX,191920.xyz
 ###KKKKKK###
   #KFCV50Emby
   - DOMAIN,cloudflare.v50.su
+###LLLLLL###
+  #琉璃门
+  - DOMAIN-SUFFIX,ckongcheng666.dpdns.org
 ###MMMMMM###
   #micu
   - DOMAIN-KEYWORD,micu
@@ -33,6 +39,12 @@ payload:
 ###RRRRRR###
   #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
+###SSSSSS###
+  #SNTP
+  - DOMAIN-SUFFIX,cn2gias.uk
+###XXXXXX###
+  #YXIO 小竹轩
+  - DOMAIN-SUFFIX,910427.xyz
 ###YYYYYY###
   #YXIO 忆夏(已跑路，待删)
   - DOMAIN-SUFFIX,yixia.io
