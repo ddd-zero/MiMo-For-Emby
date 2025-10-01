@@ -29,7 +29,7 @@ payload:
   - DOMAIN,cloudflare.v50.su
 ###LLLLLL###
   #琉璃门
-  - DOMAIN-SUFFIX,ckongcheng666.dpdns.org
+  - DOMAIN-KEYWORD,ckongcheng666
 ###MMMMMM###
   #micu
   - DOMAIN-KEYWORD,micu
