@@ -21,6 +21,9 @@ payload:
 ###DDDDDD###
   #emos
   - DOMAIN-SUFFIX,emos.lol
+###FFFFFF###
+  #肥牛emby
+  - DOMAIN-SUFFIX,feiniu.lol
 ###IIIIII###
   #ichinosekotomifan的电视台
   - DOMAIN-SUFFIX,191920.xyz
