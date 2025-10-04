@@ -35,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,kongcheng666.dpdns.org
 ###MMMMMM###
   #micu
-  - DOMAIN-KEYWORD,micu
+  - DOMAIN-SUFFIX,micu.hk
 ###PPPPPP###
   #peach_公益服
   - DOMAIN-SUFFIX,embymv.link
