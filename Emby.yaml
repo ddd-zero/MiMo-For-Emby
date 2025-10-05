@@ -51,5 +51,8 @@ payload:
 ###YYYYYY###
   #YXIO 忆夏(已跑路，待删)
   - DOMAIN-SUFFIX,yixia.io
+###ZZZZZZ###
+  #终点站
+  - DOMAIN-SUFFIX,emby.wtf
 
   
