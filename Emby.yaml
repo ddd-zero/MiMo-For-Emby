@@ -24,9 +24,14 @@ payload:
 ###FFFFFF###
   #肥牛emby
   - DOMAIN-SUFFIX,feiniu.lol
+  #非越媒体库
+  - DOMAIN-SUFFIX,sfcj.org
 ###IIIIII###
   #ichinosekotomifan的电视台
   - DOMAIN-SUFFIX,191920.xyz
+###JJJJJJ###
+  #惊蛰_EMBY
+  - DOMAIN-SUFFIX,jingzhe.pro
 ###KKKKKK###
   #KFCV50Emby
   - DOMAIN,cloudflare.v50.su
