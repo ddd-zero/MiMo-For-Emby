@@ -46,6 +46,9 @@ payload:
 ###MMMMMM###
   #micu
   - DOMAIN-SUFFIX,micu.hk
+###NNNNNN###
+  #二次元niji
+  - DOMAIN-SUFFIX,nijigem.by
 ###PPPPPP###
   #peach_公益服
   - DOMAIN-SUFFIX,embymv.link
