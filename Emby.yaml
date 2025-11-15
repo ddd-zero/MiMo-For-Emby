@@ -43,6 +43,8 @@ payload:
 ###LLLLLL###
   #琉璃门
   - DOMAIN-SUFFIX,kongcheng666.dpdns.org
+  #临境 Liminal 系列
+  - DOMAIN-SUFFIX,liminalnet.com
 ###MMMMMM###
   #micu
   - DOMAIN-SUFFIX,micu.hk
