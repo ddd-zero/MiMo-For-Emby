@@ -52,6 +52,9 @@ payload:
   #二次元niji
   - DOMAIN-SUFFIX,nijigem.by
   - DOMAIN-SUFFIX,bgp.yt   #视频流
+###OOOOOO###
+  #OkEmby
+  - DOMAIN-SUFFIX,okemby.org
 ###PPPPPP###
   #peach_公益服
   - DOMAIN-SUFFIX,embymv.link
