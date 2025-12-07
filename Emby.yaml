@@ -21,6 +21,8 @@ payload:
 ###DDDDDD###
   #emos
   - DOMAIN-SUFFIX,emos.lol
+  #Embydada
+  - DOMAIN-SUFFIX,10520.xyz
 ###FFFFFF###
   #肥牛emby
   - DOMAIN-SUFFIX,feiniu.lol
@@ -29,6 +31,8 @@ payload:
 ###HHHHHH###
   #HKA Emby
   - DOMAIN-SUFFIX,aliz.work
+  #HOHAI-公益
+  - DOMAIN-SUFFIX,hohai.eu.org
 ###IIIIII###
   #ichinosekotomifan的电视台
   - DOMAIN-SUFFIX,191920.xyz
