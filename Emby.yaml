@@ -23,6 +23,9 @@ payload:
   - DOMAIN-SUFFIX,emos.lol
   #Embydada
   - DOMAIN-SUFFIX,10520.xyz
+###EEEEEE###
+  #emby动画公益站 thefreeemby afreeemby
+  - DOMAIN-SUFFIX,ciallo.party
 ###FFFFFF###
   #肥牛emby
   - DOMAIN-SUFFIX,feiniu.lol
