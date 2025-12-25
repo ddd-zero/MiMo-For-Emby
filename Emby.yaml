@@ -71,6 +71,8 @@ payload:
 ###SSSSSS###
   #SNTP
   - DOMAIN-SUFFIX,cn2gias.uk
+  #Sharon
+  - DOMAIN-SUFFIX,longemby.com
 ###XXXXXX###
   #YXIO 小竹轩
   - DOMAIN-SUFFIX,910427.xyz
