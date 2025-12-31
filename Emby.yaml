@@ -65,6 +65,9 @@ payload:
 ###PPPPPP###
   #peach_公益服
   - DOMAIN-SUFFIX,embymv.link
+###QQQQQQ###
+  #起点公益站
+  - DOMAIN-SUFFIX,28.al
 ###RRRRRR###
   #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
