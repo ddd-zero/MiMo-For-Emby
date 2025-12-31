@@ -82,6 +82,8 @@ payload:
   #月饼
   - DOMAIN-SUFFIX,emby.my
   - DOMAIN-SUFFIX,apple-cdn.net
+  #叶子emby
+  - DOMAIN-SUFFIX,yezi.my
 ###ZZZZZZ###
   #终点站
   - DOMAIN-SUFFIX,emby.wtf
