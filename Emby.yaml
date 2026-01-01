@@ -43,7 +43,7 @@ payload:
   #惊蛰_EMBY
   - DOMAIN-SUFFIX,jingzhe.pro
   #结束乐队
-  - DOMAIN-SUFFIX,biliblili.uk
+  - DOMAIN-SUFFIX,bilibili.uk
 ###KKKKKK###
   #KFCV50Emby
   - DOMAIN,cloudflare.v50.su
