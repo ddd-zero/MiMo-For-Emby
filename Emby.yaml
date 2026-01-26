@@ -71,6 +71,7 @@ payload:
 ###QQQQQQ###
   #起点公益站
   - DOMAIN-SUFFIX,28.al
+  - DOMAIN-SUFFIX,freestream.startspoint.com
 ###RRRRRR###
   #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
