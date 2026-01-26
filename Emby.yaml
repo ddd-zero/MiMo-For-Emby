@@ -56,6 +56,8 @@ payload:
 ###MMMMMM###
   #micu
   - DOMAIN-SUFFIX,micu.hk
+  #Mirai 麻衣
+  - DOMAIN-SUFFIX,miraiemby.com
 ###NNNNNN###
   #二次元niji
   - DOMAIN-SUFFIX,nijigem.by
