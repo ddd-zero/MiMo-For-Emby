@@ -75,6 +75,9 @@ payload:
 ###RRRRRR###
   #RFC UHDNOW MeFun 米饭服
   - DOMAIN,rfc.uhdnow.com
+  #Ryan HelloBlock_Emby
+  - DOMAIN-SUFFIX,helloblock.net
+  - DOMAIN-SUFFIX,doudou.pet
 ###SSSSSS###
   #SNTP
   - DOMAIN-SUFFIX,cn2gias.uk
