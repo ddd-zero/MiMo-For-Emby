@@ -32,6 +32,9 @@ payload:
   - DOMAIN-SUFFIX,feiniu.lol
   #非越媒体库
   - DOMAIN-SUFFIX,sfcj.org
+###GGGGGG###
+  #狗剩
+  - DOMAIN-SUFFIX,gousen.cc.cd
 ###HHHHHH###
   #HKA Emby
   - DOMAIN-SUFFIX,aliz.work
@@ -45,9 +48,11 @@ payload:
   - DOMAIN-SUFFIX,jingzhe.pro
   #结束乐队
   - DOMAIN-SUFFIX,biliblili.uk
+  #卷毛鼠 JMS
+  - DOMAIN-SUFFIX,jmsuper.com
 ###KKKKKK###
-  #KFCV50Emby
-  - DOMAIN,cloudflare.v50.su
+  #KLemby
+  - DOMAIN-SUFFIX,klplay.top
 ###LLLLLL###
   #琉璃门
   - DOMAIN-SUFFIX,kongcheng666.dpdns.org
